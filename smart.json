@@ -1,8 +1,8 @@
 {
   "name": "jquery-dotdotdot",
   "description": "A jQuery plugin for advanced cross-browser ellipsis on multiple line content",
-  "homepage": "https://github.com/dedest/meteor-dotdotdot",
+  "homepage": "https://github.com/DeDeSt/meteor-jquery-dotdotdot",
   "author": "Ronen Verdi <go7hic@gmail.com>",
   "version": "1.7.4",
-  "git": "https://github.com/dedest/meteor-dotdotdot.git"
+  "git": "https://github.com/DeDeSt/meteor-jquery-dotdotdot.git"
 }
